@@ -1,6 +1,6 @@
 # M.L-Unity
 
-## Meu primeiro algoritmo genetico em Unity
+## Meu primeiro algoritmo genético em Unity
 
 O algoritmo consiste em fazer com que as partículas aprendam a sair do ponto A e chegar no ponto B.
 
